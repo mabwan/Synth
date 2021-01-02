@@ -1,0 +1,10 @@
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.csprojAssemblyReference.cache
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.Properties.Resources.resources
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.csproj.GenerateResource.cache
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\source\repos\Synth\Synth\bin\Debug\Synth.exe.config
+C:\Users\FiercePC\source\repos\Synth\Synth\bin\Debug\Synth.exe
+C:\Users\FiercePC\source\repos\Synth\Synth\bin\Debug\Synth.pdb
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.exe
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.pdb
+C:\Users\FiercePC\source\repos\Synth\Synth\obj\Debug\Synth.Synth.resources
